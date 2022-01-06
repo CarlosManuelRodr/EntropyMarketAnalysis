@@ -306,13 +306,6 @@ StyleBox[\"window\",\nFontSlant->\"Italic\"]\) specified.";
 Begin["`Private`"]
 
 
-(* ::Section::Closed:: *)
-(*Initialization*)
-
-
-Needs["AdvancedMapping`"]
-
-
 (* ::Section:: *)
 (*Returns*)
 
